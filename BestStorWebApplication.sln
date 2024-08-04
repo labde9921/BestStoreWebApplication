@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestStorWebApplication", "BestStorWebApplication.csproj", "{DA7EA3B8-0680-4392-AB4F-F44D972B8D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA7EA3B8-0680-4392-AB4F-F44D972B8D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA7EA3B8-0680-4392-AB4F-F44D972B8D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA7EA3B8-0680-4392-AB4F-F44D972B8D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA7EA3B8-0680-4392-AB4F-F44D972B8D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D3880054-2AA3-45A2-B16E-631A8C27F337}
+	EndGlobalSection
+EndGlobal
